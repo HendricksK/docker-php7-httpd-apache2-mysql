@@ -19,6 +19,7 @@ Go to your terminal and Clone or fork the project.
 - open a DOCKER terminal 
 - `sudo vi /etc/hosts`
 - add or replace IP with your docker IP: `192.168.99.100 host1.local`
+- Actually had to run `docker-compose up` first in order to get things going
 - Type in the docker terminal: `docker-compose build`
 - Type in the docker terminal: `docker-compose up -d`
 
